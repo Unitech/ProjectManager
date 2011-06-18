@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/project-manager/!svn/ver/1/web/ext3/examples/writer/remote/lib
+END
+response.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/project-manager/!svn/ver/1/web/ext3/examples/writer/remote/lib/response.php
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/project-manager/!svn/ver/1/web/ext3/examples/writer/remote/lib/model.php
+END
+application_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/project-manager/!svn/ver/1/web/ext3/examples/writer/remote/lib/application_controller.php
+END
+request.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/project-manager/!svn/ver/1/web/ext3/examples/writer/remote/lib/request.php
+END
+session_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/project-manager/!svn/ver/1/web/ext3/examples/writer/remote/lib/session_db.php
+END

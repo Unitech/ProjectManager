@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/project-manager/!svn/ver/1/nbproject
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/project-manager/!svn/ver/4/nbproject/project.properties
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/project-manager/!svn/ver/1/nbproject/project.xml
+END
+genfiles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/project-manager/!svn/ver/4/nbproject/genfiles.properties
+END
+ant-deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/project-manager/!svn/ver/1/nbproject/ant-deploy.xml
+END
+build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/project-manager/!svn/ver/4/nbproject/build-impl.xml
+END

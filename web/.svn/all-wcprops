@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/project-manager/!svn/ver/3/web
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/project-manager/!svn/ver/4/web/index.js
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/project-manager/!svn/ver/4/web/index.jsp
+END
+InprogressProjectsindex.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/project-manager/!svn/ver/1/web/InprogressProjectsindex.jsp
+END
+date.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/project-manager/!svn/ver/4/web/date.js
+END
+ArchiveProjectsindex.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/project-manager/!svn/ver/4/web/ArchiveProjectsindex.js
+END
+ArchiveProjectsindex.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/project-manager/!svn/ver/3/web/ArchiveProjectsindex.jsp
+END
+SuspendProjectsindex.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/project-manager/!svn/ver/4/web/SuspendProjectsindex.js
+END
+SuspendProjectsindex.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/project-manager/!svn/ver/3/web/SuspendProjectsindex.jsp
+END

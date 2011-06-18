@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/templates
+END
+DayViewTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/templates/DayViewTemplate.js
+END
+DayBodyTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/templates/DayBodyTemplate.js
+END
+MonthViewTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/templates/MonthViewTemplate.js
+END
+BoxLayoutTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/templates/BoxLayoutTemplate.js
+END
+DayHeaderTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/templates/DayHeaderTemplate.js
+END

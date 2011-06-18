@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/project-manager/!svn/ver/1/web/WEB-INF
+END
+app-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/project-manager/!svn/ver/1/web/WEB-INF/app-config.xml
+END
+db-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/project-manager/!svn/ver/1/web/WEB-INF/db-config.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/project-manager/!svn/ver/1/web/WEB-INF/web.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/project-manager/!svn/ver/1/web/ext3/examples/ux/gridfilters/filter
+END
+BooleanFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/project-manager/!svn/ver/1/web/ext3/examples/ux/gridfilters/filter/BooleanFilter.js
+END
+Filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/project-manager/!svn/ver/1/web/ext3/examples/ux/gridfilters/filter/Filter.js
+END
+NumericFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/project-manager/!svn/ver/1/web/ext3/examples/ux/gridfilters/filter/NumericFilter.js
+END
+StringFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/project-manager/!svn/ver/1/web/ext3/examples/ux/gridfilters/filter/StringFilter.js
+END
+ListFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/project-manager/!svn/ver/1/web/ext3/examples/ux/gridfilters/filter/ListFilter.js
+END
+DateFilter.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/project-manager/!svn/ver/1/web/ext3/examples/ux/gridfilters/filter/DateFilter.js
+END

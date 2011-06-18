@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/widgets
+END
+CalendarPicker.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/widgets/CalendarPicker.js
+END
+ReminderField.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/widgets/ReminderField.js
+END
+DateRangeField.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/project-manager/!svn/ver/1/web/ext3/examples/calendar/src/widgets/DateRangeField.js
+END

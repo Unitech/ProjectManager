@@ -1,0 +1,4 @@
+deploy.ant.properties.file=/home/strzel-a/.netbeans/6.9/tomcat60.properties
+j2ee.server.home=/home/strzel-a/tomcat6
+j2ee.server.instance=tomcat60:home=/home/strzel-a/tomcat6
+user.properties.file=/home/strzel-a/.netbeans/6.9/build.properties

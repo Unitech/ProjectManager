@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/project-manager/!svn/ver/3/src/java/com/mvc/archiveProjects
+END
+ArchiveProjectsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/project-manager/!svn/ver/3/src/java/com/mvc/archiveProjects/ArchiveProjectsController.java
+END
+ArchiveProjectsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/project-manager/!svn/ver/3/src/java/com/mvc/archiveProjects/ArchiveProjectsDAO.java
+END
+ArchiveProjectsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/project-manager/!svn/ver/3/src/java/com/mvc/archiveProjects/ArchiveProjectsUtil.java
+END
+ArchiveProjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/project-manager/!svn/ver/4/src/java/com/mvc/archiveProjects/ArchiveProjects.java
+END
+ArchiveProjectsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/project-manager/!svn/ver/3/src/java/com/mvc/archiveProjects/ArchiveProjectsService.java
+END
